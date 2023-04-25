@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @duduzinxx
+- 👀 I’m interested in Soccer
+- 🌱 I’m currently learning Javascript, HTML ,CSS.
+- 💞️ I’m looking to collaborate on new projects 
+- 📫 How to reach me edu.bellia2@gmail.com
